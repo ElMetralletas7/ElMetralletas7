@@ -1,7 +1,7 @@
 <div id="encabezado" align="center">
 <p>
 <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="200" />
-    <h1 align="center">👋Hola! Soy Metralletas</h1>
+    <h1 align="center">👋Hola! Soy ElMetralletas</h1>
     <h2 align="center">Te doy la bienvenida a mi perfil de Github</h2>
 </p>
 </div>
