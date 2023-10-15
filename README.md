@@ -10,8 +10,7 @@
 ### 👤/** Sobre mi **\
 - De España
 - 💻Intento de programador 
-- 👤Aprendiendo JavaScript, Lua y Python
-- 🤖Desarrollando un bot de Discord en js.
+- 👤Aprendiendo JavaScript, Lua, Python, Java, C#, C++
 - 🍳Toda ayuda siempre es bienvenida
 
 
@@ -20,7 +19,7 @@
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="35px" src="https://tinkercademy.com/wp-content/uploads/2018/04/python-icon-300x300.png" />
 <img align="left" alt="Lua" width="35px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256782/file-type-lua-icon-sm.png" />
-<img align="left" alt="Lua" width="35px" src="https://raw.githubusercontent.com/github/explore/888aa7196bdda1de09e848148fc5929ccfe49ab6/topics/discord-js/discord-js.png" />
+<img align="left" alt="C#" width="35px" src="https://desarrolloweb.com/storage/tag_images/actual/BzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png" />
 
 
 <br>
