@@ -12,6 +12,7 @@
 - 💻Intento de programador 
 - 👤Aprendiendo JavaScript, Lua, Python, Java, C#, C++
 - 🍳Toda ayuda siempre es bienvenida
+- 💻 Fundador Clandestino RP (Servidor FIVEM) 
 
 
 ### 🛠/** Lenguajes de programacion **\
