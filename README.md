@@ -14,7 +14,7 @@
 - 🍳Toda ayuda siempre es bienvenida
 
 
-### 🛠/** Lenguajes de programacion **\
+### 🛠/** Lenguajes de programacion **\🛠
 
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="35px" src="https://tinkercademy.com/wp-content/uploads/2018/04/python-icon-300x300.png" />
