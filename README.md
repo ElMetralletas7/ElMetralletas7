@@ -8,7 +8,7 @@
 
 
 ### 👤/** Sobre mi **\
-- De España
+- 🇪🇸De España
 - 💻Intento de programador 
 - 👤Aprendiendo JavaScript, Lua, Python, Java, C#, C++
 - 🍳Toda ayuda siempre es bienvenida
