@@ -1,6 +1,6 @@
 <div id="encabezado" align="center">
 <p>
-<img src="[https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWd5dWhiZ3Y5MXZmZGZveHJxd2xhOHdqb2JwNnBuaHVyajIyejBoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmE3aHY3Z3g3ZGthYWZ3cm5uMjFqcnNvZ2JwZmcycGo4NXBmbGZ6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp)" width="200" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmE3aHY3Z3g3ZGthYWZ3cm5uMjFqcnNvZ2JwZmcycGo4NXBmbGZ6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
     <h1 align="center">👋Hola! Soy ElMetralletas</h1>
     <h2 align="center">Te doy la bienvenida a mi perfil de Github</h2>
 </p>
