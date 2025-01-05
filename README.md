@@ -8,7 +8,7 @@
 
 
 ### 👤/** Sobre mi **\
-- 🇪🇸De España
+- 🇪🇸 De España
 - 💻Intento de programador 
 - 👤Aprendiendo JavaScript, Lua, Python, Java, C#, C++
 - 🍳Toda ayuda siempre es bienvenida
@@ -27,5 +27,5 @@
 <br>
 <br>
 <br>
-©️ ElMetralletas 2024
+©️ ElMetralletas 2025
 
