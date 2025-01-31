@@ -9,7 +9,7 @@
 
 ### 👤 Sobre mi 👤
 - 🇪🇸 De España
-- 💻Intento de programador 
+- 💻 Programador en formación
 - 👤Aprendiendo JavaScript, Lua, Python, Java, Astro, Tailwind, React
 - 🍳Toda ayuda siempre es bienvenida
 
@@ -22,6 +22,7 @@
 <img align="left" alt="Java" width="50px" src="https://www.channelpartner.es/wp-content/uploads/2021/09/10085_21.jpg.webp" />
 <img align="left" alt="Astro" width="50px" src="https://www.svgrepo.com/show/373446/astro.svg" />
 <img align="left" alt="Astro" width="50px" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
+<img align="left" alt="Astro" width="50px" src="https://static-00.iconduck.com/assets.00/react-icon-512x512-u6e60ayf.png" />
 
 <br>
 <br>
