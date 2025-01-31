@@ -21,8 +21,8 @@
 <img align="left" alt="Lua" width="35px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256782/file-type-lua-icon-sm.png" />
 <img align="left" alt="Java" width="50px" src="https://www.channelpartner.es/wp-content/uploads/2021/09/10085_21.jpg.webp" />
 <img align="left" alt="Astro" width="35px" src="https://www.svgrepo.com/show/373446/astro.svg" />
-<img align="left" alt="Astro" width="35px" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
-<img align="left" alt="Astro" width="35px" src="https://static-00.iconduck.com/assets.00/react-icon-512x512-u6e60ayf.png" />
+<img align="left" alt="Tailwind" width="35px" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
+<img align="left" alt="React" width="35px" src="https://static-00.iconduck.com/assets.00/react-icon-512x512-u6e60ayf.png" />
 
 <br>
 <br>
