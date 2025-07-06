@@ -13,31 +13,31 @@
 <table>
   <tr>
     <td valign="top" width="50%">
+
+### 👤 Sobre Mí
       
-      ### 👤 Sobre Mí
+Soy un programador entusiasta, siempre buscando aprender y mejorar mis habilidades. Actualmente estoy enfocado en el desarrollo web y de aplicaciones, explorando diferentes tecnologías para construir proyectos sólidos y funcionales.
       
-      Soy un programador entusiasta, siempre buscando aprender y mejorar mis habilidades. Actualmente estoy enfocado en el desarrollo web y de aplicaciones, explorando diferentes tecnologías para construir proyectos sólidos y funcionales.
-      
-      - 💻 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
-      - 🚀 Abierto a colaborar en proyectos y aprender de otros desarrolladores.
-      - 💡 Cualquier consejo o ayuda es siempre bienvenido.
-      
+- 💻 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+- 🚀 Abierto a colaborar en proyectos y aprender de otros desarrolladores.
+- 💡 Cualquier consejo o ayuda es siempre bienvenido.
+
     </td>
     <td valign="top" width="50%">
+
+### 🛠️ Tecnologías
       
-      ### 🛠️ Tecnologías
+Estas son algunas de las tecnologías con las que estoy trabajando:
       
-      Estas son algunas de las tecnologías con las que estoy trabajando:
-      
-      <p align="left">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-        <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-        <a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40"/> </a>
-        <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-        <a href="https://astro.build/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original-wordmark.svg" alt="astro" width="40" height="40"/> </a>
-        <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-        <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/> </a>
-      </p>
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+    <a href="https://astro.build/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original-wordmark.svg" alt="astro" width="40" height="40"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/> </a>
+</p>
       
     </td>
   </tr>
